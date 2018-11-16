@@ -1,0 +1,17 @@
+body {
+	color: red;
+}
+#mydiv1 {
+	color: skyblue;
+}
+.mydiv2 {
+	color : green;
+}
+.tbl1 {
+	width: 50%;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+td,th {
+	border: 1px solid black;
+}
